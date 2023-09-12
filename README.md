@@ -33,7 +33,7 @@ Desktop View
 
 
 ### Links
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Live Site URL: [https://sanjoclinton.github.io/STATS-PREVIEW-CARD-COMPONENT-CHALLENGE/]()
 
 ### Built with
 
